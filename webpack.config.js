@@ -6,7 +6,7 @@ module.exports = {
     'react-hot-loader/patch',
     'webpack-dev-server/client?http://127.0.0.1:4000',
     'webpack/hot/only-dev-server',
-    './src/index.js'
+    './src/index'
   ],
   output: {
     path: '/Users/Apple/React/spa_frontend/build',
