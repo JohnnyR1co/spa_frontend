@@ -1,0 +1,19 @@
+{
+  "name": "spa_frontend",
+  "version": "1.0.0",
+  "description": "Frontend application",
+  "main": "src/index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/JohnnyR1co/spa_frontend.git"
+  },
+  "author": "JRico",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/JohnnyR1co/spa_frontend/issues"
+  },
+  "homepage": "https://github.com/JohnnyR1co/spa_frontend#readme"
+}
