@@ -6,7 +6,7 @@ export default class App extends React.Component {
   render() {
     return (
       <div>
-        React test, I rlly
+        Hello Ruby
       </div>
     );
   }
